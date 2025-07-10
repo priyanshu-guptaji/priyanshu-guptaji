@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Priyanshu Gupta</h1>
+<h1 align="center">Hi, I'm Priyanshu Gupta 👋</h1>
 
 <p align="center">
   <strong>B.Tech CSE Student | Full Stack Developer | Open Source Contributor</strong><br/>
@@ -9,20 +9,23 @@
 
 ## 🚀 About Me
 
-I'm currently pursuing my B.Tech at **Gandhi Institute of Engineering and Technology (GIET)**.  
-My interests lie in **full-stack development**, **healthcare tech**, and **AI-powered applications**.  
-Always open to collaborations and learning something new every day.
+🎓 I'm pursuing my B.Tech in Computer Science at **Gandhi Institute of Engineering and Technology (GIET)**.  
+💡 I love turning ideas into scalable and user-centric applications.  
+💬 Exploring **Full Stack Development**, **AI-Powered Applications**, and **HealthTech** innovations.  
+🤝 Always open to collaboration, learning, and exciting opportunities!
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br/>
+  <!-- Web Dev -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -33,32 +36,33 @@ Always open to collaborations and learning something new every day.
 
 ## 🌟 Featured Projects
 
-### 🩺 Online Medicine Ordering System
-A user-friendly e-commerce platform where customers can upload prescriptions, order medicines, and track deliveries. Chemists can manage orders with real-time pop-up alerts.
-
-### 🏥 Hospital Information Management System  
-Enables hospitals to update and display bed availability, blood stock, and more. Uses secure login for accurate hospital-specific data management.
+### 💍 Swayamvaar - Wedding Destination Platform  
+A dynamic MERN-based platform that helps users explore top wedding destinations in India.  
+🔹 Two login modes: Customers & Wedding Planners  
+🔹 Destination explorer, inquiry system, and real-time chat (upcoming)
 
 ### 💬 AI Health Chatbot  
-A smart chatbot that guides patients through medication schedules, lifestyle suggestions, and treatment reminders using simple, interactive conversations.
+An interactive health assistant chatbot that guides users through symptom inputs, provides suggestions, sets reminders, and interacts naturally with patients.
 
 ### ✍️ Blog Website  
-A full-featured blog platform with login/signup, post creation/editing/deletion, user dashboard, and post liking features—built to enhance user storytelling and engagement.
+Feature-rich blog system with login/signup, post creation, editing, deletion, user dashboard, like buttons, and profile customization.
 
 ---
 
 ## 📜 Certifications
 
-- **Java Basics** – HackerRank Certified
+- ✅ **Java Basics** – HackerRank Certified  
+- 📘 **Web Development Intern** – CodSoft  
+- 🔗 **Postman API Challenger** – GSSOC'24
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Modern Frontend Frameworks  
-- AI Chatbot Integration  
-- Scalable Backend Architecture  
-- Database Optimization Techniques
+- ⚛️ Modern Frontend Frameworks (Next.js, React)  
+- 🤖 AI Chatbot Integration  
+- ⚙️ Scalable Backend Architecture  
+- 🧠 Database Optimization & Indexing Techniques
 
 ---
 
@@ -106,7 +110,7 @@ A full-featured blog platform with login/signup, post creation/editing/deletion,
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em></p>
 
 <!---
 priyanshu-guptaji/priyanshu-guptaji is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
