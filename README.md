@@ -1,24 +1,26 @@
-<h1 align="center">Hi, I'm Priyanshu Gupta </h1>
+<h1 align="center" style="font-weight:700;">Priyanshu Gupta</h1>
 
 <p align="center">
-  <strong>B.Tech CSE Student | Full Stack Developer | Open Source Enthusiast</strong><br/>
-  Building impactful, scalable applications and solving real-world problems through clean and efficient code.
+  <strong>B.Tech CSE Student • Full Stack Developer • Open Source Contributor</strong><br/>
+  Passionate about building scalable systems, intelligent applications, and clean, maintainable software.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Computer Science undergraduate at <strong>Gandhi Institute of Engineering and Technology (GIET)</strong>, deeply passionate about software engineering and scalable system design.
+A Computer Science undergraduate at <strong>Gandhi Institute of Engineering and Technology (GIET)</strong>, focused on developing efficient and scalable software systems.  
+Currently improving my expertise in <strong>DSA with Java</strong> and exploring <strong>AI-powered, enterprise-grade web applications</strong>.
 
-- Focus Areas: Full Stack Development, Scalable Architectures, Intelligent Systems  
-- Strong believer in writing maintainable, clean, and performance-oriented code  
-- Currently improving DSA with Java and exploring AI-driven applications  
-- Always open to collaboration and challenging engineering problems  
+**Key Interests**
+- Full Stack Development  
+- Scalable System Architecture  
+- AI-Driven Applications  
+- Clean, Optimized, and Maintainable Code  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -34,75 +36,75 @@ I'm a Computer Science undergraduate at <strong>Gandhi Institute of Engineering 
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### **VertexCRM – Multi-Tenant CRM Platform**
-A full-stack enterprise CRM built using **Spring Boot + React**.
+### VertexCRM – Multi-Tenant CRM Platform
+A production-grade CRM built using **Spring Boot + React**.
 
 - Schema-based multi-tenancy  
-- JWT Authentication & Role-Based Access Control  
-- Lead, Client, and Task management  
-- Optimized scalable architecture  
+- JWT authentication & RBAC  
+- Lead, Client, Task management  
+- Optimized database architecture  
 
 ---
 
-### **AI Health Chatbot**
-A conversational healthcare assistant capable of suggesting remedies, tracking symptoms, and interacting naturally.
+### AI Health Chatbot
+A conversational healthcare assistant capable of understanding symptoms, suggesting remedies, and managing reminders.
 
 ---
 
-### **Blog Website**
-A modular blogging system with full authentication, CRUD features, and profile management.
+### Blog Website
+A fully functional blogging system with authentication, CRUD operations, and customizable user profiles.
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
-- Oracle Certified – *Java Foundations*  
-- *Java Basics* – HackerRank  
-- *Web Development Internship* – CodSoft  
-- *Postman API Challenge* – GSSOC’24  
+- Oracle Certified — *Java Foundations*  
+- HackerRank — *Java Basics*  
+- CodSoft — *Web Development Internship*  
+- GSSOC’24 — *Postman API Challenge*  
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Advanced React & Next.js  
-- Scalable backend architecture (Spring Boot)  
-- AI integration in full-stack systems  
-- Database optimization & query tuning  
+- Scalable backend systems with Spring Boot  
+- AI integration into full-stack apps  
+- Database optimization & performance tuning  
 
 ---
 
-## 🏆 GSSOC’24 Badges
+## GSSOC’24 Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="80px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80px"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="75"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="75"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-guptaji&show_icons=true&theme=react&count_private=true&cache_seconds=60" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-guptaji&layout=compact&theme=react&cache_seconds=60" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-guptaji&show_icons=true&theme=react&count_private=true&cache_seconds=60" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-guptaji&layout=compact&theme=react&cache_seconds=60" height="160"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-guptaji" target="_blank">
@@ -112,10 +114,10 @@ A modular blogging system with full authentication, CRUD features, and profile m
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/priyanshu-guptaji">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><em>"Code is like humor — when you have to explain it, it’s bad." — Cory House</em></p>
+<p align="center"><strong>“Code is like humor — when you have to explain it, it’s bad.”</strong><br/>— Cory House</p>
