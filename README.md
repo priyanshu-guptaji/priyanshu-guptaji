@@ -25,7 +25,7 @@ Most of my time goes into backend development, writing cleaner APIs, and underst
 
 ## Leadership & Community Work
 
-**Club Lead / Core Member — AIML & Data Science Club, GIETU**
+**Club Lead / Core Member — Data Science Club, GIETU**
 
 - Helped organize technical workshops and hands-on sessions  
 - Encouraged juniors to work with Git & GitHub  
