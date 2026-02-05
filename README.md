@@ -1,160 +1,145 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
+<h1 align="center">Hi, I'm Priyanshu Gupta 👋</h1>
 
 <p align="center">
-  <strong>B.Tech CSE Student • Full Stack Developer • Open Source Contributor</strong><br/>
-  Building scalable systems, intelligent applications & clean software.
+  B.Tech CSE student | Full Stack Developer | Open Source Contributor<br/>
+  I enjoy building backend-heavy applications and learning how real systems scale.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Java;Open+Source+Contributor;Future+System+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=2500&pause=800&color=539BF5&center=true&vCenter=true&width=460&lines=Java+%26+Spring+Boot+Developer;React+%7C+PostgreSQL+%7C+APIs;Learning+System+Design+Every+Day" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Computer Science undergraduate at **Gandhi Institute of Engineering and Technology (GIET)**  
-💡 Passionate about **backend systems, scalable architecture, and AI-powered applications**
+I’m a Computer Science undergraduate at **Gandhi Institute of Engineering and Technology (GIET)**.  
+Most of my time goes into backend development, writing cleaner APIs, and understanding how applications behave at scale.
 
-- 🧠 Currently mastering **DSA with Java**
-- ⚙️ Building **enterprise-grade web apps**
-- 🌱 Exploring **AI + Full Stack + System Design**
-- 🏆 Active **open-source contributor**
-
----
-
-## 🏫 Leadership & Community
-
-**Club Lead / Core Member — AIML & Data Science Club (GIETU)**  
-- Organized technical workshops & hands-on sessions  
-- Promoted open-source culture among students  
-- Mentored juniors in Git, GitHub & project-based learning  
+- Practicing **DSA using Java**
+- Building projects with **Spring Boot + React**
+- Learning system design basics alongside development
+- Contributing to open source whenever possible
 
 ---
 
-## 🛠️ Tech Stack
+## Leadership & Community Work
 
-### 💻 Languages
+**Club Lead / Core Member — AIML & Data Science Club, GIETU**
+
+- Helped organize technical workshops and hands-on sessions  
+- Encouraged juniors to work with Git & GitHub  
+- Guided students on contributing to open-source projects  
+
+---
+
+## Tech Stack
+
+**Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,sql,php" />
 </p>
 
-### ⚙️ Backend & Frameworks
+**Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
 </p>
 
-### 🎨 Frontend
+**Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" />
 </p>
 
-### 🗄️ Databases & Tools
+**Databases & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## Projects
 
-### 🔷 VertexCRM — Multi-Tenant CRM Platform
-**Spring Boot • React • PostgreSQL**
+### VertexCRM — Multi-Tenant CRM
+**Spring Boot | React | PostgreSQL**
 
-> A production-grade CRM designed with enterprise scalability in mind.
+A CRM system built to understand how multi-tenant applications work in real-world scenarios.
 
-- Schema-based multi-tenancy  
-- JWT authentication & Role-Based Access Control  
-- Lead, Client & Task management  
-- Optimized relational database design  
-
----
-
-### 🔶 DevFlow — Developer Workflow Platform
-**Full Stack • API-Driven**
-
-> A productivity-focused platform to streamline developer workflows.
-
-- Project & task tracking  
-- Clean UI with structured backend APIs  
-- Focus on performance & maintainability  
+- Schema-based multi-tenancy
+- JWT authentication and role-based access
+- Lead, client, and task management
+- Focus on clean backend architecture
 
 ---
 
-### 🤖 AI Health Chatbot
-- Symptom-based conversational assistant  
-- Health tips, reminders & smart responses  
-- AI-driven interaction logic  
+### DevFlow — Developer Workflow Tool
+**Full Stack Application**
+
+A simple platform aimed at organizing developer work and understanding API-driven systems.
+
+- Project and task tracking
+- RESTful backend APIs
+- Clean UI with maintainable code structure
 
 ---
 
-### ✍️ Blog Website
-- Secure authentication system  
-- Full CRUD functionality  
-- User profiles & content management  
+### Blog Website
+A basic blogging platform built to practice authentication and CRUD operations.
+
+- User login & authorization
+- Create, edit, delete posts
+- Profile-based access
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🏅 **Oracle Certified** — Java Foundations  
-- 🧩 **HackerRank** — Java Basics  
-- 💼 **CodSoft** — Web Development Internship  
-- 🚀 **GSSOC’24** — Postman API Challenge  
-
----
-
-## 📚 Currently Exploring
-
-- Advanced **React & Next.js**
-- **Spring Boot** system design & scalability
-- AI integration in full-stack apps
-- Database optimization & performance tuning
+- Oracle Certified — Java Foundations  
+- HackerRank — Java Basics  
+- CodSoft — Web Development Internship  
+- GSSOC’24 — Postman API Challenge  
 
 ---
 
-## 🏆 GSSOC’24 Badges
+## What I'm Learning Right Now
+
+- Deeper **Spring Boot** internals
+- Better **React patterns**
+- Basics of **system design**
+- Database performance tuning
+
+---
+
+## GSSOC’24 Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="65"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-guptaji&show_icons=true&theme=react&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-guptaji&layout=compact&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-guptaji&show_icons=true&theme=react&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-guptaji&layout=compact&theme=react&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-guptaji">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:priyanshusgbm05@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/priyanshu-guptaji">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-guptaji">LinkedIn</a> •
+  <a href="mailto:priyanshusgbm05@gmail.com">Email</a> •
+  <a href="https://github.com/priyanshu-guptaji">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code is like humor — when you have to explain it, it’s bad."</i><br/>
-  — Cory House
+  <i>“First make it work, then make it right, then make it fast.”</i>
 </p>
