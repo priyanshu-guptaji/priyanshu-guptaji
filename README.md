@@ -1,26 +1,26 @@
-Hi 👋, I’m Priyanshu Gupta
-🎓 B.Tech CSE @ GIET University, Gunupur
-💻 Backend-focused Full Stack Developer | ☁️ Open Source Contributor
+Hi, I’m Priyanshu Gupta 👋
 
-I spend most of my time building backend-heavy applications, designing clean APIs, and understanding how real-world systems scale.
+I’m a B.Tech Computer Science & Engineering student at GIET University, Gunupur, with a strong focus on backend development and scalable systems.
 
-What I’m currently focused on:
+I enjoy building backend-heavy applications, designing clean REST APIs, and understanding how real-world systems scale and behave under load. Most of my learning revolves around writing maintainable code and improving system efficiency.
 
-🧠 Practicing DSA using Java
+What I’m Currently Working On
 
-🛠️ Building projects with Spring Boot + React
+Practicing Data Structures & Algorithms using Java
 
-🏗️ Learning system design fundamentals
+Building projects with Spring Boot and React
 
-🌍 Contributing to open-source projects
+Learning system design fundamentals
 
-Leadership & Community Work:
+Contributing to open-source projects
 
-Club Lead / Core Member — Data Science Club, GIETU
+Leadership & Community Work
 
-Organized technical workshops & hands-on sessions
+Club Lead / Core Member — Data Science Club, GIET University
 
-Encouraged juniors to use Git & GitHub
+Organized technical workshops and hands-on sessions
+
+Encouraged juniors to use Git & GitHub effectively
 
 Guided students toward open-source contributions
 
